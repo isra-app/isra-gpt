@@ -1,0 +1,5 @@
+{
+  "name": "ISRA GPT - Islamic Chatbot",
+  "description": "An AI-powered chatbot specializing in Islamic knowledge including Fiqh, Hadeeth, Thafseer, and Seerah, powered by Gemini.",
+  "requestFramePermissions": []
+}
